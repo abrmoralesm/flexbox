@@ -41,6 +41,7 @@ div[class*="item-"]:nth-child(odd) {
 	background-color: black;
 	color: white;
 }
+/* :nth-child(odd)-> Columnas impares. (even)pares. */
 
 div[class*="item-"]:nth-child(5) {
 	background-color: aqua;
